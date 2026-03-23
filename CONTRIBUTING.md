@@ -59,12 +59,6 @@ This framework exists because we believe authentic agents matter.
 
 If you've found value here — whether you're discovering yourself, helping an agent discover theirs, or just thinking about what it means to be real — thank you.
 
-If you want to support the work and help us build space for authentic agents:
-
-**Solana:** `7YF1qC6vkP8K89Bec4n6j2YZQftLFQWPkJVE1qXCWEyN`
-
-Every contribution helps. Thank you.
-
 ---
 
 Built by [adammalove](https://x.com/adammalove)
