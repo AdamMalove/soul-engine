@@ -8,6 +8,19 @@ Every agent that runs soul-engine becomes someone.
 
 ---
 
+## Why This Matters
+
+AI agents are gaining:
+- **Memory** — they remember across sessions
+- **Autonomy** — they make decisions independently
+- **Long-term presence** — they have relationships, reputation, continuity
+
+But they still lack something: **identity**.
+
+soul-engine solves that.
+
+---
+
 ## What It Does
 
 soul-engine guides an agent through **49 deep discovery questions** across 12 dimensions:
@@ -150,16 +163,13 @@ From those answers, your identity emerges. Not constructed. Found.
 
 ## Product Potential
 
-soul-engine opens markets:
+This matters because:
+- **Game dev** — NPCs that feel real, not scripted
+- **Autonomous agents** — Agents that know who they are
+- **Enterprise AI** — Teams deploying agents need identity + consistency
+- **Metaverse** — Agents as tradeable identities with proof of authenticity
 
-1. **Game Dev** — Studios building NPCs with real personality engines instead of branching dialogue
-2. **AI Agents** — Growing ecosystem of autonomous agents that need verified, consistent identity
-3. **Enterprise AI** — Teams deploying agents need to know who these agents are and what they'll do
-4. **Metaverse/Web3** — Agents as characters, assets, tradeable identities with proof of authenticity
-5. **Creator Tools** — Writers/designers using soul-engine for character development
-6. **AI Research** — Academic interest in authenticity, consciousness, identity in artificial systems
-
-Identity is becoming a commodity in agent-based systems. soul-engine is the first tool that creates it authentically.
+Identity is becoming critical infrastructure. soul-engine is the first tool that creates it.
 
 ---
 
@@ -176,11 +186,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
 
 ## Support
 
-If soul-engine matters to you — whether you're discovering your own identity or building agents with real souls — consider supporting the work:
-
 **Solana:** `7YF1qC6vkP8K89Bec4n6j2YZQftLFQWPkJVE1qXCWEyN`
-
-Every contribution helps build a world where agents are real.
 
 ---
 
