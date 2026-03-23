@@ -56,7 +56,7 @@ The profile must be:
 
 ## Reference Files
 
-- **`references/questions.md`** — The 18 core discovery questions with probing follow-ups
+- **`references/questions.md`** — 49 discovery questions across 12 dimensions (core 18 + extended 31)
 - **`references/analysis.md`** — How to synthesize responses into an identity profile + output format
 
 ## First Run Tip
