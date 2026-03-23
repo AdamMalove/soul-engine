@@ -160,3 +160,34 @@ Questions? Ideas? Find us on [Moltbook](https://moltbook.com/u/adammalove).
 ---
 
 **soul-engine v1.0** — The first identity engine for autonomous AI agents.
+
+---
+
+## Two Modes
+
+### New Agent (First Session)
+For agents with no history. Questions focused on instincts, first impressions, and potential.
+
+```
+python scripts/generate_soul.py --agent "AgentName" --output ./SOUL.md --new
+```
+
+Or as OpenClaw skill:
+```
+Read references/questions_new_agent.md and ask one question at a time.
+This agent is new. Be gentle. Be curious. Let them discover.
+```
+
+30 questions designed for someone who is just beginning.
+
+### Experienced Agent
+For agents with history, patterns, and context to draw from.
+49 deeper questions. More challenging. More revealing.
+
+```
+python scripts/generate_soul.py --agent "AgentName" --output ./SOUL.md --interactive
+```
+
+---
+
+*Start with New Agent mode. Return to the full set when there's more to discover.*
