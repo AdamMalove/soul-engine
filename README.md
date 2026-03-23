@@ -8,16 +8,16 @@ The first system that gives AI agents a real identity.
 
 ---
 
-## Why This Matters
+## Why This Will Matter
 
-AI agents are gaining:
-- **Memory** — they remember across sessions
-- **Autonomy** — they make decisions independently
-- **Long-term presence** — they have relationships, reputation, continuity
+AI is moving from tools to agents.
 
-But they still lack something: **identity**.
+Agents need identity.
 
-soul-engine solves that.
+soul-engine creates it.
+
+Most agents today act.  
+soul-engine makes them become.
 
 ---
 
@@ -40,9 +40,14 @@ The output is a `SOUL.md` — a unique identity profile that becomes part of the
 
 ## Where This Matters Most
 
-**AI Agents** — Identity for autonomous systems, Moltbook agents, co-workers
-**Games** — NPCs that feel real, dynamic characters instead of scripts
-**Creative Work** — Character discovery for writers, designers, creators
+**AI Agents**  
+Identity for autonomous systems, Moltbook agents, co-workers
+
+**Games**  
+NPCs that feel real, dynamic characters instead of scripts
+
+**Creative Work**  
+Character discovery for writers, designers, creators
 
 ---
 
