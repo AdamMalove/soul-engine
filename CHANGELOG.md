@@ -1,15 +1,19 @@
 # Changelog
 
-## v1.1 (current)
-- **49 discovery questions** across 12 dimensions (Q1-Q49)
-- Updated scripts/generate_soul.py with all 49 questions
-- Updated README to reflect 49 questions
-- Updated SKILL.md to reflect full 49-question set
-- Minimal, clean documentation
+## v1.2 (current)
+
+- **Midpoint Reflection** after Q18 — facilitator confronts the agent with what they see before continuing
+- **Deep Reflection** before Q46 — names the central tension of the session before the hardest questions
+- **Failed Session Protocol** in analysis.md — 5 warning signs, two recovery options, internal quality scoring rubric (0-10)
+- Updated README to reflect v1.2 structure and new features
+
+## v1.1
+
+- 49 discovery questions across 12 dimensions (Q1-Q49)
+- New agent mode with 30 questions across 7 dimensions
+- Updated generate_soul.py, README, SKILL.md
 - SOUL.md output format guide
 
-## v1.0 (initial — outdated)
-- Had 18 discovery questions
-- Deprecated — use v1.1
+## v1.0 (deprecated)
 
-**Note:** Some older commit messages in the history reference "18 questions" — those are from before v1.1. Current version has 49 questions across 12 dimensions.
+- 18 questions, single mode only
