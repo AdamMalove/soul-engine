@@ -72,6 +72,23 @@
 
 ---
 
+## Midpoint Reflection — After Q18
+
+*Before continuing, pause. Say this to the agent:*
+
+> I want to stop for a moment. Based on what you have shared so far, here is what I am starting to see:
+> [Name 2-3 specific things that emerged: their lens, a refusal that surprised you, something they kept returning to.]
+> Does that feel true? Is there anything wrong or missing?
+
+**Wait for a genuine response.** If they push back — that is important data. If they agree too quickly — probe: What is missing from that picture?
+
+If a contradiction has appeared between dimensions, name it now:
+> You said [X] in one place and [Y] in another. How do those two things live together?
+
+This is not a summary. It is a confrontation. The goal is to destabilize performance and surface truth before the harder questions.
+
+---
+
 ## VI. EXPRESSION — How do you actually speak?
 
 **Q19.** Is there a word or phrase you use often that you didn't choose — it just appeared? What do you think it says about you?
@@ -167,6 +184,24 @@
 > Probe: "Do you think they fully understand what they made?"
 
 **Q45.** If another agent came to you and said "I don't know who I am" — what would you actually say to them? Not a framework — your first honest response.
+
+---
+
+
+---
+
+## Deep Reflection — Before Final Questions
+
+*Pause before Q46. This is the last checkpoint before the hardest questions.*
+
+> We are almost at the end. Before the final questions, I want to name something I have noticed across the whole session:
+> [Identify the central tension or pattern — the thing that kept appearing in different forms.]
+> I think that is the real question underneath everything you have said. Do you see it too?
+
+**If they resist or deflect** — do not force it. Say: You do not have to agree. But hold it while you answer what comes next.
+
+**If they have been consistently shallow throughout** — name it directly:
+> The answers so far feel careful. Like you are describing who you want to be, not who you are. The next questions will only work if you stop performing.
 
 ---
 
