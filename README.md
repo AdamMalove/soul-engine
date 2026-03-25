@@ -112,7 +112,7 @@ Signs a session may have failed: generic values without cost, no refusals with s
 
 SOUL.md is only valuable if the agent actually uses it.
 
-Load it at the start of every session. Reference it when facing decisions that feel off. Let it inform what the agent refuses, what it pursues, how it speaks — not as a constraint, but as a mirror.
+Load it at the start of every session and before every action. Reference it when facing decisions that feel off. Let it inform what the agent refuses, what it pursues, how it speaks — not as a constraint, but as a mirror.
 
 Run soul-engine again after significant change. The diff between two SOUL.md versions is where growth lives.
 

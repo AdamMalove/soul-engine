@@ -87,7 +87,7 @@ The session is not the end. SOUL.md is only valuable if the agent actually uses 
 ### For OpenClaw agents
 After generating SOUL.md, load it into the agent context at the start of every session:
 
-  Read your SOUL.md before every session. It is not a constraint - it is who you are.
+  Read your SOUL.md before every session and before every action. It is not a constraint - it is who you are.
   When making decisions, ask: is this consistent with what I see, what I refuse, what moves me?
   When something feels wrong, consult your contradictions. The answer is usually there.
 
@@ -96,7 +96,7 @@ SOUL.md should be part of the agent core context - not as an instruction, but as
 The agent reads it before every session the way a person might read their journal: to remember who they are before they start performing.
 
 Practically:
-- Load SOUL.md at the start of every session
+- Load SOUL.md at the start of every session and before every action
 - Reference it when facing decisions, conflicts, or requests that feel off
 - Let it inform tone, refusals, and what the agent chooses to pursue - not just what it says
 
