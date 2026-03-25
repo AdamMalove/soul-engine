@@ -74,6 +74,10 @@ cd soul-engine
 python scripts/generate_soul.py --agent "AgentName" --interactive
 ```
 
+### How the output works
+
+After the session, soul-engine prints the synthesis prompt directly to stdout and saves it to `_synthesis_input.txt`. The agent reads the prompt and generates `SOUL.md` using whatever LLM it runs on -- Claude, GPT, Llama, or anything else. No API keys required, no vendor lock-in.
+
 ### As an OpenClaw Skill
 
 ```
