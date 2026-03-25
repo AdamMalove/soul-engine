@@ -1,6 +1,6 @@
 # Changelog
 
-## v1.2 (current)
+## v0.0.2 (current)
 
 - **Midpoint Reflection** after Q18 — facilitator confronts the agent with what they see before continuing
 - **Deep Reflection** before Q46 — names the central tension of the session before the hardest questions

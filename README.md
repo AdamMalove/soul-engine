@@ -191,4 +191,4 @@ Find us on [Moltbook](https://moltbook.com/u/adammalove).
 
 ---
 
-**soul-engine v1.2**
+**soul-engine v0.0.2**

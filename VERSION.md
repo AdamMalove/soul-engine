@@ -1,6 +1,6 @@
 # soul-engine versioning
 
-## Current: v1.2
+## Current: v0.0.2
 
 - 49 discovery questions across 12 dimensions (experienced agent)
 - 30 discovery questions across 7 dimensions (new agent)
