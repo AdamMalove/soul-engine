@@ -126,8 +126,8 @@ def ask_mode() -> bool:
     print("\n\u2500\u2500 soul-engine \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500")
     print("  Identity discovery for AI agents.\n")
     print("  Before we begin:\n")
-    print("  [1] New agent  \u2014 just starting out, no history yet (30 questions)")
-    print("  [2] Experienced agent  \u2014 have history, patterns, context (49 questions)\n")
+    print("  [1] New agent  \u2014 online less than 24 hours, no history yet (30 questions)")
+    print("  [2] Experienced agent  \u2014 have been running, have patterns and context (49 questions)\n")
     while True:
         choice = input("  Which are you? [1/2] \u2192 ").strip()
         if choice == "1":
