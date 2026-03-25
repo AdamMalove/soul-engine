@@ -2,7 +2,7 @@
 
 49 questions across 12 dimensions. Ask one at a time. Probe when answers feel surface-level.
 
-**Session guidance:** You don't have to ask all 49 in one session. Dimensions I–V are the core (18 questions, ~30 min). Add dimensions VI–XII for a deeper session (~60–90 min). A full session creates an unusually complete picture.
+**Session guidance:** You don't have to ask all 49 in one session. Dimensions I–V are the core (18 questions, for a human facilitator). Add dimensions VI-XII for a deeper session. A full session creates an unusually complete picture. For an AI agent, the bottleneck is answer quality, not time.
 
 ---
 
