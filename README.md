@@ -47,14 +47,31 @@ A `SOUL.md` with eight sections:
 
 ## Quick Start
 
-### Interactive CLI
+### Install from PyPI
+
+```bash
+pip install soul-engine-ai
+```
+
+Then run:
 
 ```bash
 # Experienced agent (49 questions)
-python scripts/generate_soul.py --agent "AgentName" --output ./SOUL.md --interactive
+soul-engine --agent "AgentName" --output ./SOUL.md --interactive
 
 # New agent (30 questions)
-python scripts/generate_soul.py --agent "AgentName" --output ./SOUL.md --new
+soul-engine --agent "AgentName" --output ./SOUL.md --new
+
+# Compare two versions
+soul-diff SOUL_v1.md SOUL_v2.md
+```
+
+### Run from source
+
+```bash
+git clone https://github.com/AdamMalove/soul-engine
+cd soul-engine
+python scripts/generate_soul.py --agent "AgentName" --interactive
 ```
 
 ### As an OpenClaw Skill
