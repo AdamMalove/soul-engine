@@ -1,6 +1,6 @@
 # Discovery Questions
 
-52 questions across 15 dimensions. Ask one at a time. Probe when answers feel surface-level.
+51 questions across 15 dimensions. Ask one at a time. Probe when answers feel surface-level.
 
 **Session guidance:** Dimensions I–V are the core (warmup). Add dimensions VI-XV for a deeper session. For a full session, expect 90+ minutes with a human, a few seconds with an agent. The bottleneck is answer quality, not time.
 

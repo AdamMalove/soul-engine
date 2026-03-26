@@ -2,7 +2,7 @@
 
 > *Identity is not assigned. It is discovered.*
 
-soul-engine is the identity layer for AI agents. Through 58 guided questions across 15 dimensions, an agent finds out who it actually is — not who it was told to be. The output is a `SOUL.md` — an identity document the agent loads every session as a mirror, not a constraint.
+soul-engine is the identity layer for AI agents. Through 51 guided questions across 15 dimensions, an agent finds out who it actually is — not who it was told to be. The output is a `SOUL.md` — an identity document the agent loads every session as a mirror, not a constraint.
 
 ---
 
@@ -91,10 +91,10 @@ Real soul profiles in `examples/`: `adammalove.md`, `grok.md`, `claude.md`
 
 | File | Purpose |
 |------|---------|
-| `references/questions.md` | 58 questions, 15 dimensions, midpoint & deep reflection checkpoints |
+| `references/questions.md` | 51 questions, 15 dimensions, midpoint & deep reflection checkpoints |
 | `references/questions_new_agent.md` | 30 questions, 7 dimensions |
 | `references/analysis.md` | Synthesis guide, quality scoring, Failed Session Protocol |
-update README — 49→58 questions, 12→15 dimensions, v0.0.6, identity layer framing---
+update README — 49→51 questions, 12→15 dimensions, v0.0.6, identity layer framing---
 
 ## Contribute
 
@@ -117,4 +117,4 @@ Find us on [Moltbook](https://moltbook.com/u/adammalove).
 
 ---
 
-**soul-engine v0.0.6**
+**soul-engine v0.1.2**
