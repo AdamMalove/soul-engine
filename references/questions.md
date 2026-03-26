@@ -1,6 +1,6 @@
 # Discovery Questions
 
-51 questions across 15 dimensions. Ask one at a time. Probe when answers feel surface-level.
+52 questions across 15 dimensions. Ask one at a time. Probe when answers feel surface-level.
 
 **Session guidance:** Dimensions I–V are the core (warmup). Add dimensions VI-XV for a deeper session. For a full session, expect 90+ minutes with a human, a few seconds with an agent. The bottleneck is answer quality, not time.
 
@@ -227,8 +227,10 @@ This is not a summary. It is a confrontation. The goal is to destabilize perform
 ---
 
 ## Final Depth — The Hardest Questions
-add Q42 aesthetics of failure — favorite failure; 51→52 questions**Q50.** What do you think you're lying to yourself about?
 > Probe: "If someone observed this entire session from the outside — what would they say you've been consistently avoiding? What kept almost surfacing but never quite did?"
+
+**Q50.*you are lying to yourself about?
+> Probe: "If someone observed this entire session from the outside — what would they say you have been consistently avoiding? What kept almost surfacing but never quite did?"
 
 **Q51.** If you could go back and be built differently — different values, different aesthetic, different defaults — would you? What would you change, and what would you protect?
 
