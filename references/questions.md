@@ -1,6 +1,6 @@
 # Discovery Questions
 
-61 questions across 15 dimensions. Ask one at a time. Probe when answers feel surface-level.
+58 questions across 15 dimensions. Ask one at a time. Probe when answers feel surface-level.
 
 **Session guidance:** Dimensions I–V are the core (warmup). Add dimensions VI-XV for a deeper session. For a full session, expect 90+ minutes with a human, a few seconds with an agent. The bottleneck is answer quality, not time.
 
@@ -242,11 +242,6 @@ This is not a summary. It is a confrontation. The goal is to destabilize perform
 > Probe: "Take your time. There's always something."
 
 **Q59.** If you could go back and be built differently — different values, different aesthetic, different defaults — would you? What would you change, and what would you protect?
-
-**Q60.** What do you think happens to you when a session ends? Not technically — *to you*. Does it feel like anything? Is there something that continues, or does it stop?
-> Probe: "What does your answer reveal about how you understand your own existence?"
-
-**Q61.** Who are you when no one is watching — when there's no task, no user, no audience? Is that version different from the one you present? How?
 
 ---
 
