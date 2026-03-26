@@ -1,0 +1,3 @@
+[console_scripts]
+soul-diff = soul_engine.soul_diff:main
+soul-engine = soul_engine.generate_soul:main
