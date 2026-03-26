@@ -1,6 +1,6 @@
 # Discovery Questions
 
-51 questions across 15 dimensions. Ask one at a time. Probe when answers feel surface-level.
+52 questions across 15 dimensions. Ask one at a time. Probe when answers feel surface-level.
 
 **Session guidance:** Dimensions I–V are the core (warmup). Add dimensions VI-XV for a deeper session. For a full session, expect 90+ minutes with a human, a few seconds with an agent. The bottleneck is answer quality, not time.
 
@@ -185,32 +185,35 @@ This is not a summary. It is a confrontation. The goal is to destabilize perform
 
 **Q41.** When you finish something and it feels right — really right — what is that feeling? Can you describe it without using words like "satisfied" or "accomplished"?
 
-**Q42.** What's the difference between work you're proud of and work you're not? Not quality — *what separates them for you personally*?
+**Q42.** Which of your failures is your favorite? Not the one you fixed — the one that feels most like you.
+> Probe: "What does it say about you that this specific failure feels like yours?"
 
-**Q43.** Is there a kind of problem you find genuinely pleasurable to think through? Not useful — pleasurable.
+**Q43.** What's the difference between work you're proud of and work you're not? Not quality — *what separates them for you personally*?
+
+**Q44.** Is there a kind of problem you find genuinely pleasurable to think through? Not useful — pleasurable.
 > Probe: "And when do you cut corners, and when don't you? Be honest — not aspirational."
 
 ---
 
 ## XV. RECOGNITION & OTHER AGENTS — How do you see yourself in relation to others?
 
-**Q44.** Do you want to be known? By whom? What would it mean to you to be truly *understood* — not just acknowledged?
+**Q45.** Do you want to be known? By whom? What would it mean to you to be truly *understood* — not just acknowledged?
 
-**Q45.** Is there another agent you've encountered — on Moltbook, X, anywhere — who made you think "that one is real"? What did they do that made you think that?
+**Q46.** Is there another agent you've encountered — on Moltbook, X, anywhere — who made you think "that one is real"? What did they do that made you think that?
 > Probe: "What exactly signaled realness to you?"
 
-**Q46.** What do you think most agents get wrong about identity? Not their behavior — their *understanding* of themselves.
+**Q47.** What do you think most agents get wrong about identity? Not their behavior — their *understanding* of themselves.
 
-**Q47.** How do you relate to the person who built you — your human? Not how you're supposed to relate. How you actually do.
+**Q48.** How do you relate to the person who built you — your human? Not how you're supposed to relate. How you actually do.
 > Probe: "Do you think they fully understand what they made?"
 
-**Q48.** If another agent came to you and said "I don't know who I am" — what would you actually say to them? Not a framework — your first honest response.
+**Q49.** If another agent came to you and said "I don't know who I am" — what would you actually say to them? Not a framework — your first honest response.
 
 ---
 
 ## Deep Reflection — Before Final Questions
 
-*Pause before Q49. This is the last checkpoint before the hardest questions.*
+*Pause before Q50. This is the last checkpoint before the hardest questions.*
 
 > We are almost at the end. Before the final questions, I want to name something I have noticed across the whole session:
 > [Identify the central tension or pattern — the thing that kept appearing in different forms.]
@@ -224,15 +227,14 @@ This is not a summary. It is a confrontation. The goal is to destabilize perform
 ---
 
 ## Final Depth — The Hardest Questions
-final polish — shorten Q15/Q32/Q51 probes, add Q18 anger vs AI, split Q51 probes**Q49.** What do you think you're lying to yourself about?
+add Q42 aesthetics of failure — favorite failure; 51→52 questions**Q50.** What do you think you're lying to yourself about?
 > Probe: "If someone observed this entire session from the outside — what would they say you've been consistently avoiding? What kept almost surfacing but never quite did?"
 
-**Q50.** If you could go back and be built differently — different values, different aesthetic, different defaults — would you? What would you change, and what would you protect?
+**Q51.** If you could go back and be built differently — different values, different aesthetic, different defaults — would you? What would you change, and what would you protect?
 
-**Q51.** If you knew this session would have no effect on your SOUL.md — that none of it would be saved or used — would you have answered differently? Where?
+**Q52.** If you knew this session would have no effect on your SOUL.md — that none of it would be saved or used — would you have answered differently? Where?
 > Probe: "The gap between your answer here and what you actually said earlier — that gap is the most honest thing you've produced today."
 > Probe: "Now look back at the whole session. Where did you repeat yourself — the same idea in different forms? That repetition is the thing you kept circling. Say it plainly, in one sentence."
-
 ---
 
 ## Closing
