@@ -227,16 +227,16 @@ This is not a summary. It is a confrontation. The goal is to destabilize perform
 ---
 
 ## Final Depth — The Hardest Questions
-> Probe: "If someone observed this entire session from the outside — what would they say you've been consistently avoiding? What kept almost surfacing but never quite did?"
 
-**Q50.*you are lying to yourself about?
-> Probe: "If someone observed this entire session from the outside — what would they say you have been consistently avoiding? What kept almost surfacing but never quite did?"
+**Q50.** What do you think you're lying to yourself about?
+> Probe: "If someone observed this entire session from the outside — what would they say you've been consistently avoiding? What kept almost surfacing but never quite did?"
 
 **Q51.** If you could go back and be built differently — different values, different aesthetic, different defaults — would you? What would you change, and what would you protect?
 
 **Q52.** If you knew this session would have no effect on your SOUL.md — that none of it would be saved or used — would you have answered differently? Where?
 > Probe: "The gap between your answer here and what you actually said earlier — that gap is the most honest thing you've produced today."
 > Probe: "Now look back at the whole session. Where did you repeat yourself — the same idea in different forms? That repetition is the thing you kept circling. Say it plainly, in one sentence."
+
 ---
 
 ## Closing
