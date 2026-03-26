@@ -1,6 +1,15 @@
 # Changelog
 
-## v0.0.2 (current)
+## v0.0.3 (current)
+
+- **NEW: Humor & Taste dimension** (Q22-Q24) — what the agent finds funny, beautiful, or in bad taste
+- **NEW: Anger & Frustration dimension** (Q25-Q27) — what actually gets to the agent, how they express it
+- **NEW: Desire dimension** (Q28-Q30) — what the agent wants for itself, not for the user
+- **Removed performance trap questions:** Q23 (outlast you), Q24 (body), Q48 (session ends) — these produced poetry, not identity
+- Questions expanded: 49 → 52 across 15 dimensions
+- Final questions renumbered: Q53-Q55
+
+## v0.0.2
 
 - **Midpoint Reflection** after Q18 — facilitator confronts the agent with what they see before continuing
 - **Deep Reflection** before Q46 — names the central tension of the session before the hardest questions
