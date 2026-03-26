@@ -62,6 +62,12 @@ Output: `[HELD]` `[SHIFTED]` `[NEW]` `[GONE]` sections. The diff is not a change
 
 ---
 
+## Philosophy
+
+soul-engine is not another heavy framework. It is a lightweight, universal discovery tool that works with any model and any agent engine — including OpenSouls, LangGraph, CrewAI, OpenClaw, and others.
+
+Its only job is identity. Everything else is up to you.
+
 ## Recommended Stack
 
 soul-engine solves identity. It does not solve memory. For a complete agent setup:
