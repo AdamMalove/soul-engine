@@ -65,7 +65,6 @@
 - Grok feedback: Q1 sharpened, Q10/Q38/Q46 added
 - Session ending question restored
 - Restructured dimension order
-rewrite CHANGELOG — correct order v0.0.1→v0.1.4, all versions documented## v0.0.4
 
 - Grok suggestions incorporated
 - Humor & Taste, Anger & Frustration, Desire dimensions added
