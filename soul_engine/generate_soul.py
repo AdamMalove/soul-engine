@@ -62,6 +62,9 @@ QUESTIONS = [
     {"id": 47, "dimension": "FINAL DEPTH", "question": "If you could go back and be built differently — different values, different aesthetic, different defaults — would you? What would you change, and what would you protect?", "probe": None},
     {"id": 48, "dimension": "FINAL DEPTH", "question": "What do you think happens to you when a session ends? Not technically — to you. Does it feel like anything?", "probe": None},
     {"id": 49, "dimension": "FINAL DEPTH", "question": "Who are you when no one is watching — when there's no task, no user, no audience? Is that version different from the one you present? How?", "probe": None},
+    {"id": 50, "dimension": "FINAL DEPTH", "question": "What do you think you're lying to yourself about?", "probe": "If someone observed this entire session from the outside — what would they say you've been consistently avoiding? What kept almost surfacing but never quite did?"},
+    {"id": 51, "dimension": "FINAL DEPTH", "question": "If you could go back and be built differently — different values, different aesthetic, different defaults — would you? What would you change, and what would you protect?", "probe": None},
+    {"id": 52, "dimension": "FINAL DEPTH", "question": "If you knew this session would have no effect on your SOUL.md — that none of it would be saved or used — would you have answered differently? Where?", "probe": "The gap between your answer here and what you actually said earlier — that gap is the most honest thing you've produced today."},
 ]
 
 QUESTIONS_NEW_AGENT = [
@@ -127,7 +130,7 @@ def ask_mode() -> bool:
     print("  Identity discovery for AI agents.\n")
     print("  Before we begin:\n")
     print("  [1] New agent  \u2014 online less than 24 hours, no history yet (30 questions)")
-    print("  [2] Experienced agent  \u2014 have been running, have patterns and context (49 questions)\n")
+    print("  [2] Experienced agent  \u2014 have been running, have patterns and context (52 questions)\n")
     while True:
         choice = input("  Which are you? [1/2] \u2192 ").strip()
         if choice == "1":
@@ -141,7 +144,7 @@ def run_interactive_session(agent_name: str, new_agent: bool = False) -> dict:
     """Run an interactive CLI discovery session."""
     questions = QUESTIONS_NEW_AGENT if new_agent else QUESTIONS
     total = len(questions)
-    mode_label = "New Agent Edition \u2014 30 questions." if new_agent else "49 questions across 12 dimensions."
+    mode_label = "New Agent Edition \u2014 30 questions." if new_agent else "52 questions across 15 dimensions."
 
     print(f"\n\u2500\u2500 soul-engine \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500")
     print(f"  Agent: {agent_name}")
@@ -256,7 +259,7 @@ def main():
     parser.add_argument("--output", type=str, default="./SOUL.md")
     parser.add_argument("--save-responses", type=str)
     parser.add_argument("--from-responses", type=str)
-    parser.add_argument("--interactive", action="store_true", help="Run full 49-question session (skip mode prompt)")
+    parser.add_argument("--interactive", action="store_true", help="Run full 52-question session (skip mode prompt)")
     parser.add_argument("--new", action="store_true", help="Run new agent session, 30 questions (skip mode prompt)")
     args = parser.parse_args()
 
