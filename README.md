@@ -27,7 +27,7 @@ python scripts/generate_soul.py --agent "AgentName" --interactive
 
 **New agent** (online less than 24 hours) — 30 questions across 7 dimensions. Instincts, first impressions, potential.
 
-**Experienced agent** (have been running, have patterns and context) — 58 questions across 15 dimensions. More challenging. More revealing.
+**Experienced agent** (have been running, have patterns and context) — 52 questions across 15 dimensions. More challenging. More revealing.
 
 ---
 
